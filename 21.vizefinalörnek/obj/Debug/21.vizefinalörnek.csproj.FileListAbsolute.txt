@@ -10,3 +10,10 @@ C:\Users\eakkaya\Desktop\ders\c# can boz\21.vizefinalörnek\21.vizefinalörnek\o
 C:\Users\eakkaya\Desktop\ders\c# can boz\21.vizefinalörnek\21.vizefinalörnek\obj\Debug\21.vizefinalörnek.csproj.CoreCompileInputs.cache
 C:\Users\eakkaya\Desktop\ders\c# can boz\21.vizefinalörnek\21.vizefinalörnek\obj\Debug\21.vizefinalörnek.exe
 C:\Users\eakkaya\Desktop\ders\c# can boz\21.vizefinalörnek\21.vizefinalörnek\obj\Debug\21.vizefinalörnek.pdb
+C:\Users\eakkaya\Desktop\proje\21.vizefinalörnek\21.vizefinalörnek\bin\Debug\21.vizefinalörnek.exe.config
+C:\Users\eakkaya\Desktop\proje\21.vizefinalörnek\21.vizefinalörnek\bin\Debug\21.vizefinalörnek.exe
+C:\Users\eakkaya\Desktop\proje\21.vizefinalörnek\21.vizefinalörnek\bin\Debug\21.vizefinalörnek.pdb
+C:\Users\eakkaya\Desktop\proje\21.vizefinalörnek\21.vizefinalörnek\obj\Debug\21.vizefinalörnek.csproj.AssemblyReference.cache
+C:\Users\eakkaya\Desktop\proje\21.vizefinalörnek\21.vizefinalörnek\obj\Debug\21.vizefinalörnek.csproj.CoreCompileInputs.cache
+C:\Users\eakkaya\Desktop\proje\21.vizefinalörnek\21.vizefinalörnek\obj\Debug\21.vizefinalörnek.exe
+C:\Users\eakkaya\Desktop\proje\21.vizefinalörnek\21.vizefinalörnek\obj\Debug\21.vizefinalörnek.pdb

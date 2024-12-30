@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eakkaya\\Desktop\\ders\\c# can boz\\21.vizefinal\u00F6rnek\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\eakkaya\\Desktop\\proje\\21.vizefinal\u00F6rnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eakkaya\\Desktop\\proje\\21.vizefinal\u00F6rnek\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E07A13A-B752-4A6D-AED8-19FD57DA67DD}|21.vizefinal\u00F6rnek\\21.vizefinal\u00F6rnek.csproj|c:\\users\\eakkaya\\desktop\\proje\\21.vizefinal\u00F6rnek\\21.vizefinal\u00F6rnek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E07A13A-B752-4A6D-AED8-19FD57DA67DD}|21.vizefinal\u00F6rnek\\21.vizefinal\u00F6rnek.csproj|solutionrelative:21.vizefinal\u00F6rnek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\eakkaya\\Desktop\\proje\\21.vizefinal\u00F6rnek\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\eakkaya\\Desktop\\proje\\21.vizefinal\u00F6rnek\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-30T21:44:32.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eakkaya\\Desktop\\proje\\21.vizefinal\u00F6rnek\\21.vizefinal\u00F6rnek\\Program.cs",
+              "RelativeDocumentMoniker": "21.vizefinal\u00F6rnek\\Program.cs",
+              "ToolTip": "C:\\Users\\eakkaya\\Desktop\\proje\\21.vizefinal\u00F6rnek\\21.vizefinal\u00F6rnek\\Program.cs",
+              "RelativeToolTip": "21.vizefinal\u00F6rnek\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T21:30:20.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

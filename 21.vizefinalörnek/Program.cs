@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _21.vizefinalörnek
 {
@@ -16,13 +12,20 @@ namespace _21.vizefinalörnek
 
         private static void durum()
         {
-            double v, f,ort;
-            Console.WriteLine("vize giriniz");
-          v= Convert.ToDouble(Console.ReadLine());
-           Console.WriteLine("final giriniz");
-          f=Convert.ToDouble(Console.ReadLine());
+            double v, f, ort;
+            Console.WriteLine("Vize giriniz:");
+            v = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Final giriniz:");
+            f = Convert.ToDouble(Console.ReadLine());
+
+            // Ortalama hesaplama
             ort = v * 0.4 + f * 0.6;
-            string cevap = v == 0 ? "kaldin" : ort >= 50 ? "gectin" : ort < 50 ? "kaldiniz":"" ;
+
+            // Durum kontrolü
+            string cevap = v == 0 ? "Kaldınız" : ort >= 50 ? "Geçtiniz" : "Kaldınız";
+
+            // Sonuçları ekrana yazdırma
+            Console.WriteLine($"Ortalamanız: {ort}");
             Console.WriteLine(cevap);
         }
     }
