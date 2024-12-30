@@ -1,0 +1,28 @@
+name: Build and Test .NET Desktop App
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up .NET
+      uses: actions/setup-dotnet@v2
+      with:
+        dotnet-version: '6.0'  # Burada kullanmak istediğiniz .NET sürümünü belirleyebilirsiniz
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build project
+      run: dotnet build
+
+    - name: Run tests
+      run: dotnet test
